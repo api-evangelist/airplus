@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AirPlus International is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.airplus.com/
+AirPlus International provides smooth, simple, and secure business payment solutions that simplify workflows, reduce complexity, and bring harmony to financial flows for corporate clients. Their platform offers virtual and physical corporate cards, expense management, and integration capabilities for enterprises.
+
+**Areas:** Company · Payments · CorporateCards · ExpenseManagement · FinTech
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.airplus.com/)
+- [Support](https://support.airplus.com/en-de/)
+- [Blog](https://comms.airplus.com/en/blog)
+- [Privacy policy](https://airplus.com/da-dk/om-airplus/lov-og-sikkerhed/privacy-notice/)
+- [GitHub](https://github.com/airplus)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/airplus/](https://apis.io/providers/airplus/).
